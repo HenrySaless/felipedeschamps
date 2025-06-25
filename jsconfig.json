@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "baseUrl": "." // o '.' signifa a pasta de onde o arquivo está (ele tem que ficar na raiz do projeto)
+  }
+}
